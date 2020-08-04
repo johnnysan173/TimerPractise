@@ -11,7 +11,7 @@ export default function App() {
       <Timer />
       <h3>Timer from Handon track2</h3>
       <Timer2 />
-      <h3>Timer from SetInterval Practise track</h3>
+      <h3>Timer from SetInterval Practise track2</h3>
       <Timer3 />
     </div>
   );
