@@ -9,7 +9,7 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
       <h3>Timer from Sample</h3>
       <Timer />
-      <h3>Timer from Handon</h3>
+      <h3>Timer from Handon track</h3>
       <Timer2 />
       <h3>Timer from SetInterval Practise</h3>
       <Timer3 />
