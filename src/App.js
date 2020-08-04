@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <h2>Start editing to see some magic happen!</h2>
-      <h3>Timer from Sample</h3>
+      <h3>Timer from Sample track</h3>
       <Timer />
       <h3>Timer from Handon track</h3>
       <Timer2 />
